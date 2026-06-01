@@ -1,0 +1,21 @@
+*{
+    margin : 2px;
+    padding : 3px;
+}
+body{
+    font-family : Lucida Sans;
+    background-color: rgb(255, 224, 183);
+}
+h1{
+    color :black;
+    height: 48px;
+    text-align: center;
+    text-shadow: 1px 1px 2px black;
+}
+img{
+    display:flex;
+    justify-content: center;
+    margin-bottom:30px;
+
+
+}
